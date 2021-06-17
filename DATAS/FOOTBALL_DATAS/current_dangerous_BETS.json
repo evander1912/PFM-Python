@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "finlandia",
+            "visitor_team": "rusia",
+            "local_winer": "6.00",
+            "visitor_winer": "1.65",
+            "draw": "3.60"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "italia",
+            "visitor_team": "suiza",
+            "local_winer": "1.65",
+            "visitor_winer": "6.00",
+            "draw": "3.50"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "ucrania",
+            "visitor_team": "macedonia_del_norte",
+            "local_winer": "1.65",
+            "visitor_winer": "6.00",
+            "draw": "3.60"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "holanda",
+            "visitor_team": "austria",
+            "local_winer": "1.57",
+            "visitor_winer": "5.75",
+            "draw": "4.00"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "suecia",
+            "visitor_team": "eslovaquia",
+            "local_winer": "1.83",
+            "visitor_winer": "4.75",
+            "draw": "3.30"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "republica_checa",
+            "visitor_team": "inglaterra",
+            "local_winer": "6.50",
+            "visitor_winer": "1.45",
+            "draw": "4.75"
+        }
+    ]
+}

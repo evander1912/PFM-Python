@@ -1,0 +1,229 @@
+{
+    "data": [
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "finlandia",
+            "visitor_team": "rusia",
+            "local_winer": "6.00",
+            "visitor_winer": "1.65",
+            "draw": "3.60"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "turquia",
+            "visitor_team": "gales",
+            "local_winer": "2.60",
+            "visitor_winer": "2.90",
+            "draw": "3.00"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "italia",
+            "visitor_team": "suiza",
+            "local_winer": "1.65",
+            "visitor_winer": "6.00",
+            "draw": "3.50"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "ucrania",
+            "visitor_team": "macedonia_del_norte",
+            "local_winer": "1.65",
+            "visitor_winer": "6.00",
+            "draw": "3.60"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "dinamarca",
+            "visitor_team": "belgica",
+            "local_winer": "4.00",
+            "visitor_winer": "2.05",
+            "draw": "3.00"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "holanda",
+            "visitor_team": "austria",
+            "local_winer": "1.57",
+            "visitor_winer": "5.75",
+            "draw": "4.00"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "suecia",
+            "visitor_team": "eslovaquia",
+            "local_winer": "1.83",
+            "visitor_winer": "4.75",
+            "draw": "3.30"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "croacia",
+            "visitor_team": "republica_checa",
+            "local_winer": "2.15",
+            "visitor_winer": "3.40",
+            "draw": "3.30"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "inglaterra",
+            "visitor_team": "escocia",
+            "local_winer": "1.30",
+            "visitor_winer": "10.00",
+            "draw": "5.00"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "hungria",
+            "visitor_team": "francia",
+            "local_winer": "9.00",
+            "visitor_winer": "1.33",
+            "draw": "5.00"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "portugal",
+            "visitor_team": "alemania",
+            "local_winer": "3.10",
+            "visitor_winer": "2.30",
+            "draw": "3.30"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "italia",
+            "visitor_team": "gales",
+            "local_winer": "1.40",
+            "visitor_winer": "8.00",
+            "draw": "4.50"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "suiza",
+            "visitor_team": "turquia",
+            "local_winer": "2.15",
+            "visitor_winer": "3.40",
+            "draw": "3.40"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "macedonia_del_norte",
+            "visitor_team": "holanda",
+            "local_winer": "13.00",
+            "visitor_winer": "1.20",
+            "draw": "6.50"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "ucrania",
+            "visitor_team": "austria",
+            "local_winer": "2.50",
+            "visitor_winer": "2.80",
+            "draw": "3.30"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "finlandia",
+            "visitor_team": "belgica",
+            "local_winer": "13.00",
+            "visitor_winer": "1.22",
+            "draw": "6.00"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "rusia",
+            "visitor_team": "dinamarca",
+            "local_winer": "3.80",
+            "visitor_winer": "1.95",
+            "draw": "3.50"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "croacia",
+            "visitor_team": "escocia",
+            "local_winer": "2.05",
+            "visitor_winer": "3.75",
+            "draw": "3.40"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "republica_checa",
+            "visitor_team": "inglaterra",
+            "local_winer": "6.50",
+            "visitor_winer": "1.45",
+            "draw": "4.75"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "eslovaquia",
+            "visitor_team": "espana",
+            "local_winer": "11.00",
+            "visitor_winer": "1.22",
+            "draw": "6.50"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "suecia",
+            "visitor_team": "polonia",
+            "local_winer": "2.40",
+            "visitor_winer": "3.00",
+            "draw": "3.20"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "alemania",
+            "visitor_team": "hungria",
+            "local_winer": "1.20",
+            "visitor_winer": "13.00",
+            "draw": "6.50"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "portugal",
+            "visitor_team": "francia",
+            "local_winer": "3.10",
+            "visitor_winer": "2.40",
+            "draw": "3.10"
+        },
+        {
+            "league": "ucrania",
+            "date": "16-06-2021",
+            "local_team": "macedonia_del_norte",
+            "visitor_team": "1.77",
+            "local_winer": "3.60",
+            "visitor_winer": "50",
+            "draw": "5.25"
+        },
+        {
+            "league": "eurocopa",
+            "date": "17-06-2021",
+            "local_team": "españa",
+            "visitor_team": "polonia",
+            "local_winer": "1.36",
+            "visitor_winer": "8.00",
+            "draw": "5.00"
+        }
+    ]
+}

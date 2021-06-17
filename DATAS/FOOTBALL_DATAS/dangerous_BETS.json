@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "finlandia",
+            "visitor_team": "rusia",
+            "local_winer": "6.00",
+            "visitor_winer": "1.65",
+            "draw": "3.60"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "italia",
+            "visitor_team": "suiza",
+            "local_winer": "1.65",
+            "visitor_winer": "6.00",
+            "draw": "3.50"
+        },
+        {
+            "league": "eurocopa",
+            "date": "16-06-2021",
+            "local_team": "ucrania",
+            "visitor_team": "macedonia_del_norte",
+            "local_winer": "1.65",
+            "visitor_winer": "6.00",
+            "draw": "3.60"
+        }
+    ]
+}
